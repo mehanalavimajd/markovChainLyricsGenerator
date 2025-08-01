@@ -6,8 +6,8 @@ get a lyric.
 # Why you made it?
 The day I wrote it, I had watched a Veritasium video in youtube about markov chain. and yeah,
 The power went out and I was bored. So instead of waiting for electricity, I wrote this script
-using my phone - yes a phone! -. Then sent it to my laptop and added more data to the dataset.
-It was a very fun mini-project
+using my phone - yes a phone! - then sent it to my laptop and added more data to the dataset.
+It was a very fun mini-project.
 
 # Examples?
 sure:
