@@ -10,7 +10,7 @@ using my phone - yes a phone! - then sent it to my laptop and added more data to
 It was a very fun mini-project.
 
 # Examples?
-sure:
+Sure:
 ```
 to the hands of disregard
 handful of me
